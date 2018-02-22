@@ -1,0 +1,11 @@
+Limited time power ups: double damage, increased speed, and invisibilty 
+
+Level Design: level is centered around a Castle 
+  Start Sequentially 
+- Courtyard entrance (meet the final boss and other bosses then they destory you initially and send to the dungeon)
+- Dungeon (1st boss: Snake Executioner monster(lizard man))
+- Royal entrance (2nd boss: Gargoyle)
+- Library (3rd boss: Dark Mage (Design from TG Hyper Librarian yugioh card))
+- Bedrooms (4th boss: Succubus monster(possibly a spider lady monster))
+- Throne room (Final Boss: Dark Demon with wings with armor like Exdeath )
+	-> maybe two stage 
