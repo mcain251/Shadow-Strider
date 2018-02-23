@@ -9,3 +9,22 @@ Level Design: level is centered around a Castle
 - Bedrooms (4th boss: Succubus monster(possibly a spider lady monster))
 - Throne room (Final Boss: Dark Demon with wings with armor like Exdeath )
 	-> maybe two stage 
+
+Permanent Upgrades: These will come after a boss is defeated 
+  Types:
+	- Health 
+	- Damage output of sword
+	- Shuriken Effects
+		-Stun
+		-Increased number of spread
+	- Number of Dashes 
+		-start off with 1 dash has a cd 
+		- upgrade by one each time af
+
+Look of the game
+   - Sprite look
+   		similar to Hyper Light Drifter 16bit style game
+   - Need have a dark, shadowy evil tone 
+
+Engine
+  - Unity
